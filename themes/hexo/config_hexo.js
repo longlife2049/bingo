@@ -1,12 +1,12 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，我是一个程序员', 'Hi，我是一个打工人', 'Hi，我是一个干饭人', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['高效一件代发平台，深耕华强北数十载,欢迎来到宾果供应链！'], // 首页大图标语文字
 
   // 菜单配置
-  MENU_CATEGORY: true, // 显示分类
-  MENU_TAG: true, // 显示标签
+  MENU_CATEGORY: false, // 显示分类
+  MENU_TAG: false, // 显示标签
   MENU_ARCHIVE: true, // 显示归档
-  MENU_SEARCH: true, // 显示搜索
+  MENU_SEARCH: false, // 显示搜索
 
   POST_LIST_COVER: true, // 文章封面
   POST_LIST_SUMMARY: true, // 文章摘要
