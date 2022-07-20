@@ -1,11 +1,11 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['高效一件代发平台，深耕华强北数十载,欢迎来到宾果供应链！'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['高效一件代发平台，深耕华强北数十载,欢迎来到宾果供应链!'], // 首页大图标语文字
 
   // 菜单配置
   MENU_CATEGORY: false, // 显示分类
   MENU_TAG: false, // 显示标签
-  MENU_ARCHIVE: true, // 显示归档
+  MENU_ARCHIVE: false, // 显示归档
   MENU_SEARCH: false, // 显示搜索
 
   POST_LIST_COVER: true, // 文章封面
